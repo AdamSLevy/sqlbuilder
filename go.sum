@@ -1,0 +1,4 @@
+crawshaw.io/iox v0.0.0-20181124134642-c51c3df30797 h1:yDf7ARQc637HoxDho7xjqdvO5ZA2Yb+xzv/fOnnvZzw=
+crawshaw.io/iox v0.0.0-20181124134642-c51c3df30797/go.mod h1:sXBiorCo8c46JlQV3oXPKINnZ8mcqnye1EkVkqsectk=
+github.com/AdamSLevy/sqlite v0.1.3-0.20191014215059-b98bb18889de h1:ehn7bnzDZt3ZTXLR5gn0p0NUUl50wZazoi41y7qNrGY=
+github.com/AdamSLevy/sqlite v0.1.3-0.20191014215059-b98bb18889de/go.mod h1:igAO5JulrQ1DbdZdtVq48mnZUBAPOeFzer7VhDWNtW4=
